@@ -61,3 +61,11 @@ and provide us with a link to your attempt.
 
 ## Copyright
 All trademarks are the property of their respective owners.
+
+## Notes
+I run my local development environment using [Laravel Herd](https://herd.laravel.com) but any environment that provides a simple webserver and redis is sufficient.  
+The frontend is built using Vue and Vite. This can be built with
+```
+npm install
+npm run dev
+```
